@@ -1,0 +1,26 @@
+1)kiedy powstał JavaScript
+JavaScript powstał w 1995 roku.
+ 
+2)dlaczego jest to język skryptowy 
+Ponieważ pozwala pisać sktypty wykonywane przez przeglądarki albo inne środowisko które wykonuje kod 
+ 
+3)gdzie jest wykonywany JS   (klient lub serwer) 
+JS Jest najczęściej wykonywany po stronie przeglądarki  klienta 
+ 
+4)dlaczego jest JS to bezpieczne narzędzie 
+Ponieważ ma ograniczone uprawienia dostępu do zasobów komputera 
+ 
+  5)czy jest to język obiektowy , jeśli tak to dlaczego. 
+Tak, to jest jezyk obiektowy. To znaczy,że nie musi zostać skompilowany do kodu maszynowego, aby można było zobaczyć jego działania.
+6)wymień zalety  JS: 
+Zaleta1- Ptostota,język jest uważany za relatywnie łatwy. 
+Zaleta2- Teraz jest bardzo rozpowszechniony i dla tego można znaleźć miliony praktycznych przykładów 
+Zaleta3- JS jest potężne narzędzie do tworzenia aplikacji mobilnych.
+7)Framework to: 
+rodzaj programu do tworzenia innych programów  w JS
+8)Do aplikacji mobilnych można użyć Framework 
+takie jak: Google,Facebook.
+  
+9)Aplikacje responsywne to: 
+JavaScript udostępnia metody, których można użyć w aplikacji, aby uzyskać 
+bieżący rozmiar ekranu i wykorzystać wynik do wykonania działań w oparciu o ten rozmiar.
